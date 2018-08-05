@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_main.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_test.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/sniffer-core.iml" filepath="$PROJECT_DIR$/sniffer-core.iml" />
+    </modules>
+  </component>
+</project>

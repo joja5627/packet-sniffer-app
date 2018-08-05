@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.gitbucket:gitbucket_2.11:4.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.gitbucket/gitbucket_2.11/4.3.0/c332c11a8827c36cc1be6072ed14181b19951398/gitbucket_2.11-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.gitbucket/gitbucket_2.11/4.3.0/c03dfed0f54353e11e18b7aba41b1d1ae49ad39a/gitbucket_2.11-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

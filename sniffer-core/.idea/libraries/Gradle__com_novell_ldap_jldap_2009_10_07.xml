@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.novell.ldap:jldap:2009-10-07">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.novell.ldap/jldap/2009-10-07/f95a319a4881f4e109cefa57e97c0516cb6e58d8/jldap-2009-10-07.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.novell.ldap/jldap/2009-10-07/695a47482727f169603e7e4e6575f38bcfa16943/jldap-2009-10-07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

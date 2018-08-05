@@ -1,0 +1,5 @@
+rootProject.name = 'sniffer-core'
+
+include ':com.network.core'
+
+

@@ -1,0 +1,51 @@
+allprojects  {
+  apply plugin: 'maven'
+
+  group = 'org.krakenapps'
+version = '1.0.0'
+}
+
+subprojects {
+  apply plugin: 'java'
+  sourceCompatibility = 1.10
+  targetCompatibility = 1.10
+  tasks.withType(JavaCompile) {
+  	options.encoding = 'UTF-8'
+  }
+
+  task packageSources(type: Jar) {
+classifier = 'sources'
+from sourceSets.main.allSource
+
+}
+artifacts.archives packageSources
+  repositories {
+    mavenLocal()
+    flatDir {
+      dirs 'libs'
+    }
+    
+    maven { url "https://github.com/nf4droid/nf4droid-maven-repo/raw/master/releases/" }
+    maven { url "http://maven.springframework.org/release" }
+    maven { url "http://maven.springframework.org/milestone" }
+    maven { url "http://maven.springframework.org/external" }
+    maven { url "http://repo1.maven.org/maven2" }
+    maven { url "http://repository.jboss.org/nexus/content/groups/public-jboss/" }
+    maven { url "http://krakenapps.org/mvn/" }
+    maven { url "http://repository.jboss.com/maven2/" }
+    maven { url "https://mvnrepository.com/artifact/org.eclipse.birt/chartengineapi" }
+
+    maven{url "http://repository.jboss.org/nexus/content/groups/public-jboss/org/eclipse/birt/"}
+  }
+
+  
+  dependencies {
+    compile group: 'org.snmp4j', name: 'snmp4j', version: '2.6.3'
+    compile group: 'io.github.gitbucket', name: 'gitbucket_2.11', version: '4.3.0'
+    compile group: 'org.snmp4j', name: 'snmp4j', version: '1.11.1'
+    compile group: 'javax.persistence', name: 'persistence-api', version: '1.0'
+    testCompile group: 'junit', name: 'junit', version:'4.8.1'
+}
+
+  
+}

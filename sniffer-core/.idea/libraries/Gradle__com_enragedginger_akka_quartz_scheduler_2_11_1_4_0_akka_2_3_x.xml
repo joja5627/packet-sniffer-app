@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.enragedginger:akka-quartz-scheduler_2.11:1.4.0-akka-2.3.x">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enragedginger/akka-quartz-scheduler_2.11/1.4.0-akka-2.3.x/5d44d2bda04732edd8e04a20269c0f5dbb7fdc87/akka-quartz-scheduler_2.11-1.4.0-akka-2.3.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enragedginger/akka-quartz-scheduler_2.11/1.4.0-akka-2.3.x/18a75111dbafcae21df39349fa9829b14754d881/akka-quartz-scheduler_2.11-1.4.0-akka-2.3.x-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
