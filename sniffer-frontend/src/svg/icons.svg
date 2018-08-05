@@ -1,0 +1,9 @@
+ <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+                <style />
+                <text x="5" y="15" font-size="10px">
+                  N
+                </text>
+                <text x="13" y="10" font-size="6px">
+                  +
+                </text>
+              </svg>

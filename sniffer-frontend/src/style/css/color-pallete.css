@@ -1,0 +1,88 @@
+/* As hex codes */
+
+/* As hex codes */
+
+.background-color-dark-grey{
+    background-color:#A9A9A9;
+}
+.background-color-light-grey{
+    background-color:lightgray;
+}
+.background-color-white-smoke{
+    background-color:whitesmoke;
+}
+.background-color-opacity-50{
+    background-color:rgba(255, 255, 255, 0.9);
+}
+.background-color-transparent{
+    background-color:transparent
+}
+.background-color-opacity-3{
+    background-color:rgba(255, 255, 255, 0.3);
+}
+
+.background-color-tan{
+    background-color:tan
+}
+.background-color-purple-grey{
+    background-color:#8C8C94
+    
+}
+.background-color-blue-grey{
+    
+    background-color:#808588
+}
+.background-color-yellow-grey{
+    
+    background-color:#D3D0C6
+}
+
+.color-black{
+    color:black;
+}
+.color-white{
+    color:rgba(255, 255, 255, 0.9);
+}
+.opacity-1{
+    opacity: .1; 
+ }
+ .opacity-2{
+     opacity:.2; 
+  }
+.opacity-3{
+    opacity: .3; 
+ }
+ .opacity-4{
+     opacity:.4; 
+  }
+.opacity-5{
+   opacity: .5; 
+}
+.opacity-6{
+    opacity:.6; 
+ }
+ .opacity-7{
+    opacity: .7; 
+ }
+ .opacity-8{
+     opacity:.8; 
+  }
+  .opacity-9{
+    opacity:.9; 
+ }
+ 
+  
+
+.border-1-grey{
+    border: 1px solid black !important; 
+}
+.border-1-white{
+    border: 1px solid white !important; 
+}
+
+
+.gradient-titanium{
+  background: #283048; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283048, #859398); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #283048, #859398); 
+}

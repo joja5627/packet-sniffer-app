@@ -1,0 +1,26 @@
+export const GET_SIMPLE_GRAPH = 'GET_SIMPLE_GRAPH'
+export const GET_SIMPLE_GRAPH_BEGIN = 'GET_SIMPLE_GRAPH_BEGIN'
+export const GET_SIMPLE_GRAPH_SUCCESS = 'GET_SIMPLE_GRAPH_SUCCESS'
+export const GET_SIMPLE_GRAPH_FAILURE = 'GET_SIMPLE_GRAPH_FAILURE'
+
+
+
+export const CLEAR_NODES = 'CLEAR_NODES';
+export const CLEAR_EDGES = 'CLEAR_EDGES';
+export const CLEAR_GRAPH = 'CLEAR_GRAPH';
+
+export const ADD_NODE = 'ADD_NODE';
+export const ADD_EDGE = 'ADD_EDGE';
+
+
+export const UPDATE_NODE = 'UPDATE_NODE';
+export const UPDATE_EDGE = 'UPDATE_EDGE';
+export const UPDATE_GRAPH = 'UPDATE_GRAPH';
+export const UPDATE_OPTIONS = 'UPDATE_OPTIONS';
+
+
+export const DELETE_NODE =  'DELETE_NODE';
+export const DELETE_EDGE =  'DELETE_EDGE';
+
+export const TOGGLE_PIN_GRAPH =  'TOGGLE_PIN_GRAPH';
+
